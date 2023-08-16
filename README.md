@@ -1,4 +1,4 @@
-![image](https://github.com/yerkopi/hardware/assets/79029454/16312215-0395-4fe0-ada0-9faff658d4fc)# Main
+# Main
 Raspberry Pi 4 Model B Rev 1.4 version: c03114
 
 # Main case
